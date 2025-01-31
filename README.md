@@ -11,5 +11,5 @@ This Pizza Plus Dashboard provides interactive insights into pizza sales perform
 #### SQL & Power Query for data processing.
 #### DAX for advanced calculations.
 ## 🔗 View the Dashboard 
-## 👉 [Click here to view the E-Redes Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEyMDZhYWYtMTIwZC00MjI4LTg5YmUtNzZjNDRkZmUzYjc1IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
+## 👉 [Click here to view the Pizza Plus Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDEyMDZhYWYtMTIwZC00MjI4LTg5YmUtNzZjNDRkZmUzYjc1IiwidCI6IjFiY2RiNjc0LTM2YzUtNDdiMy04MWNlLTFmMDNjODdjNWUxNCJ9)
 
